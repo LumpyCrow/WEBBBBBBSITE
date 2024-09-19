@@ -23,3 +23,11 @@ img{
 a{
     color: rgb(255, 198, 198);
 }
+
+#story {
+    color: rgb(255, 255, 255);
+    font-size:175%;
+    width:1200px;
+    margin-left:auto;
+    margin-right: auto;
+}
