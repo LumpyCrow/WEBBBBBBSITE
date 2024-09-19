@@ -24,7 +24,8 @@ a{
     color: rgb(255, 198, 198);
 }
 
-content {
+#content {
+    
     width: 800px;
     border: black;
     padding: 20px;
